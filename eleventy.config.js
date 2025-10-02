@@ -14,7 +14,7 @@ export default function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    pathPrefix: "/docs/",
+    pathPrefix: process.env.GITHUB_ACTIONS ? '/docs/' : '/' ,
     dir: {
       // The folder where all your content will live:
       input: 'docs',
