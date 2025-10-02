@@ -34,7 +34,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://josh-storey.github.io/spi-guidance
     runs-on: ubuntu-latest
     needs: build
     steps:
