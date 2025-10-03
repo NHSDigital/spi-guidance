@@ -1,3 +1,8 @@
+---
+layout: page
+title: NHS SPI Guidance
+---
+
 ## Create a campaign
 
 ### Choose a campaign type

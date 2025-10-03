@@ -1,3 +1,8 @@
+---
+layout: page
+title: NHS SPI Guidance
+---
+
 ## How to access SPI
 
 You must be registered with CIS2 to access SPI.
