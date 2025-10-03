@@ -4,6 +4,6 @@ layout: page
 title: NHS SPI Guidance
 ---
 
-[How to access SPI](./how-to-access-spi.md)
+[How to access SPI](./how-to-access-spi)
 
-[Create a Campaign](./create-a-campaign.md)
+[Create a Campaign](./create-a-campaign)
