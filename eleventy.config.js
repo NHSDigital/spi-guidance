@@ -9,6 +9,8 @@ export default function(eleventyConfig) {
       },
     }
   })
+// Pass through assets
+  eleventyConfig.addPassthroughCopy('./docs/assets')
 
   return {
     dataTemplateEngine: 'njk',
