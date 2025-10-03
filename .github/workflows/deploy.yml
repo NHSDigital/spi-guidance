@@ -30,7 +30,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://josh-storey.github.io/spi-guidance
+      url: https://nhsdigital.github.io/spi-guidance
     runs-on: ubuntu-latest
     needs: build
     steps:
