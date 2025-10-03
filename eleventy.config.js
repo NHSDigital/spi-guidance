@@ -16,10 +16,11 @@ export default function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/spi-guidance/' : '/' ,
     dir: {
-      // The folder where all your content will live:
       input: 'docs',
-    }
+      output: '_site'
+    },
+        // Set path prefix for GitHub Pages
+    pathPrefix: process.env.GITHUB_ACTIONS && '/spi-guidance/'
   }
 };
