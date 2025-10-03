@@ -1,6 +1,9 @@
 ---
 homepage: true
 layout: page
-title: My first page
+title: NHS SPI Guidance
 ---
-This is my first page, built using Eleventy and `@x-govuk/nhsuk-eleventy-plugin`.
+
+[How to access SPI](./how-to-access-spi.md)
+
+[Create a Campaign](./create-a-campaign.md)
