@@ -1,7 +1,8 @@
 ---
-layout: page
-title: NHS SPI Guidance
+layout: sub-navigation
+title: Create a campaign
 ---
+
 
 ## Create a campaign
 

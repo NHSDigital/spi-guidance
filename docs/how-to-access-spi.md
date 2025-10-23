@@ -1,6 +1,6 @@
 ---
-layout: page
-title: NHS SPI Guidance
+layout: sub-navigation
+title: How to access SPI
 ---
 
 ## How to access SPI
